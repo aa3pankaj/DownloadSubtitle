@@ -1,4 +1,5 @@
 # DownloadSubtitle
+This API can be used to download subtitle files from opensubtitle.This uses XML-RPC protocol to request from the opensubtitle server.
 
 
 # Description
